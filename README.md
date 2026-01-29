@@ -83,3 +83,6 @@ Tudo em tempo real conforme a seleção do usuário.
 ### 1️⃣ Instale as dependências
 ```bash
 pip install streamlit pandas plotly
+
+2️⃣ Execute a aplicação
+python -m streamlit run src/main.py
