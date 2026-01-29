@@ -84,5 +84,5 @@ Tudo em tempo real conforme a seleção do usuário.
 ```bash
 pip install streamlit pandas plotly
 
-2️⃣ Execute a aplicação
+### 2️⃣ Execute a aplicação
 python -m streamlit run src/main.py
